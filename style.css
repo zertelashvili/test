@@ -1,0 +1,142 @@
+.img {
+    background-image: url('./dan-gold-395632-unsplash.png');
+
+    background-repeat: no-repeat;
+    width: 2000px;
+    height: 1080px;
+    background-size: cover;
+    display: inline-block;
+
+}
+
+.container {
+    width: 1920px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.old {
+    font-size: 45px;
+    color: #EF8216;
+    margin-left: 64px;
+    margin-top: 60px;
+    display: inline-block;
+}
+
+.gold {
+    font-size: 45px;
+    color: white;
+
+    margin-top: 45px;
+    display: inline-block;
+}
+
+.boxlist {
+    width: 1043.5;
+    height: 56px;
+
+}
+
+.home {
+    font-size: 27px;
+    color: #EF8216;
+    display: inline-block;
+
+
+
+
+}
+
+.line {
+    border: 2px solid #EF8216;
+    width: 89px;
+    height: 0;
+    display: inline;
+
+
+}
+
+.list {
+    font-size: 27px;
+    color: white;
+    display: inline-block;
+    margin-left: 40px;
+
+}
+
+.orange {
+    background-color: #EF8216;
+    width: 138px;
+    height: 56px;
+    padding: 16px 35px 15px 35px;
+    color: white;
+    font-size: 27px;
+    display: inline-block;
+    margin-left: 40px;
+
+}
+
+.boxlist {
+    display: flex;
+    /* justify-content: center; */
+
+
+    margin-left: 950px;
+
+
+
+}
+
+.cart {
+    display: inline-block;
+    margin-left: 40px;
+}
+
+.pf {
+    font-size: 100px;
+    color: #EF8216;
+    margin-left: 278px;
+    margin-top: 287px;
+
+
+
+}
+
+.pf2 {
+    font-size: 50px;
+    color: white;
+    margin-top: 20px;
+    margin-left: 287px;
+
+}
+
+.pt3 {
+    font-size: 20px;
+    color: white;
+    margin-left: 287px;
+    margin-top: 22px;
+}
+
+.orange1 {
+    width: 304px;
+    height: 75px;
+    color: white;
+    background-color: #EF8216;
+    font-size: 30px;
+    padding: 25px 79px 20px 79px;
+    margin-top: 88px;
+    margin-left: 278px;
+    display: inline-block;
+}
+
+.boxdiv {
+    width: 304px;
+    height: 75px;
+    color: white;
+    border: 2px solid white;
+    padding: 25px 69px 20px 69px;
+    font-size: 30px;
+    margin-top: 88px;
+    display: inline-block;
+    margin-left: 32px;
+}
